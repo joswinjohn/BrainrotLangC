@@ -1,0 +1,19 @@
+// original BrainrotLang sample code 
+sigma maxHuzz = 10;
+
+diddy pookieMath(pookies) {
+  ohio (pookies == 0) {
+    looksmaxx 1;
+  } zesty {
+    looksmaxx pookies * pookieMath(pookies - 1);
+  }
+}
+
+ratio (sus huzz = 1; huzz < maxHuzz; huzz++) {
+  ohio (huzz % 2 === 0) {
+    yap("I have skibidi rizz!!!");
+  } zesty ohio (huzz === 7) {
+    yap("Womp womp");
+  }
+  yap(pookieMath(huzz));
+}
