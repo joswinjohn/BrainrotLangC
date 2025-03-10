@@ -1,6 +1,7 @@
 brlc
 out.ts
 out.js
+*.csv
 
 # Prerequisites
 *.d
