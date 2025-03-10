@@ -1,12 +1,8 @@
-<style>
-img {
-    background-color: #FFFFFF;
-}
-</style>
-
 # BrainrotLangC
 
 This project is Arnav Murthi's [BrainrotLang](https://github.com/aLEGEND21/BrainrotLang) rewritten in C.
+
+execution times are measuring node execution times, which has no real connection to the compiler
 
 ## Performance
 
